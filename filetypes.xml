@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="content_login.xml" type="PLAIN_TEXT" />
       <mapping pattern="content_login" type="XML" />
     </extensionMap>
   </component>

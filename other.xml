@@ -63,8 +63,4 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-  </component>
 </application>
